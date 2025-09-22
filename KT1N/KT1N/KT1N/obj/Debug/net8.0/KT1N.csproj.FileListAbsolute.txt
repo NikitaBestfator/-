@@ -1,0 +1,15 @@
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\bin\Debug\net8.0\KT1N.exe
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\bin\Debug\net8.0\KT1N.deps.json
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\bin\Debug\net8.0\KT1N.runtimeconfig.json
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\bin\Debug\net8.0\KT1N.dll
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\bin\Debug\net8.0\KT1N.pdb
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\obj\Debug\net8.0\KT1N.GeneratedMSBuildEditorConfig.editorconfig
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\obj\Debug\net8.0\KT1N.AssemblyInfoInputs.cache
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\obj\Debug\net8.0\KT1N.AssemblyInfo.cs
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\obj\Debug\net8.0\KT1N.csproj.CoreCompileInputs.cache
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\obj\Debug\net8.0\KT1N.sourcelink.json
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\obj\Debug\net8.0\KT1N.dll
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\obj\Debug\net8.0\refint\KT1N.dll
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\obj\Debug\net8.0\KT1N.pdb
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\obj\Debug\net8.0\KT1N.genruntimeconfig.cache
+D:\IThub\Programming\C#\KT1N\KT1N\KT1N\obj\Debug\net8.0\ref\KT1N.dll
