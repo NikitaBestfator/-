@@ -1,0 +1,15 @@
+D:\IThub\Programming\C#\КТ2\КТ2\bin\Debug\net9.0\КТ2.exe
+D:\IThub\Programming\C#\КТ2\КТ2\bin\Debug\net9.0\КТ2.deps.json
+D:\IThub\Programming\C#\КТ2\КТ2\bin\Debug\net9.0\КТ2.runtimeconfig.json
+D:\IThub\Programming\C#\КТ2\КТ2\bin\Debug\net9.0\КТ2.dll
+D:\IThub\Programming\C#\КТ2\КТ2\bin\Debug\net9.0\КТ2.pdb
+D:\IThub\Programming\C#\КТ2\КТ2\obj\Debug\net9.0\КТ2.GeneratedMSBuildEditorConfig.editorconfig
+D:\IThub\Programming\C#\КТ2\КТ2\obj\Debug\net9.0\КТ2.AssemblyInfoInputs.cache
+D:\IThub\Programming\C#\КТ2\КТ2\obj\Debug\net9.0\КТ2.AssemblyInfo.cs
+D:\IThub\Programming\C#\КТ2\КТ2\obj\Debug\net9.0\КТ2.csproj.CoreCompileInputs.cache
+D:\IThub\Programming\C#\КТ2\КТ2\obj\Debug\net9.0\КТ2.sourcelink.json
+D:\IThub\Programming\C#\КТ2\КТ2\obj\Debug\net9.0\КТ2.dll
+D:\IThub\Programming\C#\КТ2\КТ2\obj\Debug\net9.0\refint\КТ2.dll
+D:\IThub\Programming\C#\КТ2\КТ2\obj\Debug\net9.0\КТ2.pdb
+D:\IThub\Programming\C#\КТ2\КТ2\obj\Debug\net9.0\КТ2.genruntimeconfig.cache
+D:\IThub\Programming\C#\КТ2\КТ2\obj\Debug\net9.0\ref\КТ2.dll
